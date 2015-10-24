@@ -6,7 +6,7 @@ Returns new object with sorted keys order.
 npm install object-sort
 ```
 
-```
+```javascript
 var objectSort = require('object-sort');
 var obj = {b: 3, c: 5, a: 1};
 
